@@ -10,13 +10,9 @@ Welcome to the Health Expenditure Analysis repository. Here, we delve into data 
 
 ## Total Health Expenditure by Country in 2020
 
-![Total Health Expenditure by Country in 2020]
-
 This graph illustrates the total health expenditure across various countries in the year 2020. Notably, Monaco emerges with the highest expenditure, followed by Luxembourg and Norway. Conversely, countries such as the Democratic Republic of Congo, Yemen, and the Netherlands exhibit the lowest expenditures.
 
 ## Year-to-Year Percent Change in Health Expenditure
-
-![Year-to-Year Percent Change in Health Expenditure]
 
 This graph depicts the fluctuation in health expenditure over time. In 2019, there was a decrease of 0.12% in expenditure, while in 2020, there was an increase of 10.3%.
 
