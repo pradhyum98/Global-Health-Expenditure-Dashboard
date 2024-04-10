@@ -1,7 +1,7 @@
 # Global-Health-Expenditure-Dashboard
 
 <div style="border: 1px solid #ccc; padding: 5px; border-radius: 5px;">
-  <img src="(https://github.com/pradhyum98/Global-Health-Expenditure-Dashboard/assets/73133235/deb348b6-f4aa-471e-b240-34e650d60d14) " alt="Image Description" style="max-width: 100%; border-radius: 5px;">
+  <img src=(https://github.com/pradhyum98/Global-Health-Expenditure-Dashboard/assets/73133235/deb348b6-f4aa-471e-b240-34e650d60d14) alt="Image Description" style="max-width: 100%; border-radius: 5px;">
 </div>
 
 ![Global Health Expenditure-Dashboard](https://github.com/pradhyum98/Global-Health-Expenditure-Dashboard/assets/73133235/b90bce41-a3c1-42ab-9d1b-218068c7f18a)
